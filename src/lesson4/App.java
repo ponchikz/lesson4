@@ -114,7 +114,8 @@ public class App {
                 }
             }
         }
-
+        System.out.println("Ничья");
+        return true;
     }
 }
 
